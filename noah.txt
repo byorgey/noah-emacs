@@ -22,26 +22,51 @@ htOcpxccccccccccccccccccccccccccccc0-=9[[https://patch-tag.com/][Darcs Hosting: 
 http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html,.[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][[[http://www.cs.rochester.ecccccccccccccccccccccccccccccccccccccccgf';":{":{';[;l CV?cccccc/ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc CV?
 http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html[[http://www.cs.rochester.edu/u/ryates/diag?{p0?:?P)H-[[https://patch-tag.com/][Darcs Hosting: Patch-Tag.com]]l[][[https://patch-tag.com/][Darcs Hosting: Patch-Tag.com]]0l09i?":{P>https://patch-tag.com/z'']."v '+FD|}.-.[-=--
 -g i8iiii98[[http://www.cs.rochester.ed 9i[[https://patch-tag.com/][Darcs Hosting: Patch-Tag.com]]f4jLjes/diagrams/all-index.html][]]
-http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html,.[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]http://www.cs.rochester.edu/u/ryates/diagrams/all-index.htmlhttp://www.cs.rochester.edu/u/ryates/diagrams/all-index.htmlf fy,,"v '+FD|}                      mcxr34-i /'[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]u[u7li7illlllllo[sckreod0909988x8 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyphm- yyyyyyyyg4yyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-'; ][[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://ww'; ][[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
-'; ][[htt[-- [[https://byorgey.fogbugz.com/default.asp?pg=pgList&#resolve_1_4557][diagrams: All open cases in Diagrams assigned to Brent Yorgey containing -project:Inbox -tag:@someday - FogBugz]]8k://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
-'; ][[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.roche'; ][[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4'; ][[http://www.cs.rochester.edu/u/ryates/diagrams/all-inindexdex.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
+http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html,.[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]http://www.cs.rochester.edu/u/ryates/diagrams/all-index.htmlhttp://www.cs.rochester.edu/u/ryates/diagrams/all-index.htmlf
+fy,,"v '+FD|}                      mcxr34-i
+/'[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]u[u7li7illlllllo[sckreod0909988x8
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy8
+8yyy8yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyphm- yyyyyyyyg4yyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+'; bv[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://ww'; ][[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
+'bv][[htt[--
+[[https://byorgey.fogbugz.com/default.asp?pg=pgList&#resolve_1_4557][diagrams:
+All open cases in Diagrams assigned to Brent Yorgey containing
+-project:Inbox -tag:@someday -
+FogBugz]]8k://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][
+`waPOg[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
+';
+][[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.roche';
+][[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4';
+][[http://www.cs.rochester.edu/u/ryates/diagrams/all-inindexdex.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html]qwreeeeeeeeeeeeexswex
+              ms/all-index.html//..//'./'/'/'[4
 
 '; ][[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
 ster.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
 w.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
-/'df yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy-o=myyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\=&"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy& ?L?-=""""""<P_U-p
-\'-p[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]] [pcshttp://www.cs.rochester.edu/u/ryates/diagrams/all-index.html[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]9ju5ll6x;lxlk;6zslllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllp55555555555piu;ldu/u/ryates/diagrams/all-index.html][]]http://www.cs.rochester.edu/u/ryates/diagrams/all-index.htmlhttp://www.cs.rochester.edu/u/ryates/diagrams/all-index.htmlf fy,,"v '+FD|}                      mcxr34-i /'[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]u[u7li7illlllllo[sckreod0909988x8 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyg4yyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+yr[[https://github.com/diagrams/diagrams-lib/][diagrams/diagrams-lib]]/';6
+/'df
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy-o=myyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\=&"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy&
+?L?-=""""""<P_U-p
+\'-p[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]
+[pcshttp://www.cs.rochester.edu/u/ryates/diagrams/all-index.html[[http:/
+www.cs.rochestyllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllyt/'.;[tyllllllllllllllllllllp55555555555piu;ldu/u/ryates/diagrams/all-index.html][]]http://www.cs.rochester.edu/u/ryates/diattttttttttates/diagrams/all-index.html][]]9ju5ll6x;lxl45l,lllll,[lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllyt/'.;[tyllllllllllllllllllllp55555555555piu;ldu/u/ryates/diagrams/all-index.html][]]http://www.cs.rochester.edu/u/ryates/dialllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllyt/'.;[tyllllllllllllllllllllp55555555555piu;ldu/u/ryates/diagrams/all-index.html][]]http://www.cs.rochester.edu/u/ryates/diallllllllllllllllllllp55555555555piu;ldu/u/ryates/diagrams/all-index.html][]]http://www.cs.rochester.edu/u/ryates/dia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dex.htmlf fy,,"v '+FD|}                      mcxr34-i /'[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]u[u7li7illlllllo[sckreod0909988x8 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyg4yyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 uuooo8
 [[https://byorgey.fogbugz.com/default.asp?pg=pgList&#resolve_1_4557][diagrams:
 All open cases in Diagrams assigned to Brent Yorgey containing
 -project:Inbox -tag:@someday - FogBugz]]l, iop'';';l'lb    l l f ffffffffffffffffffffffffffffffffffl]fffffffffffff://www.cs.rofffffffffff/ufffffffffffffffffffffffpox.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
 /'df yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy-o=myyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\=&"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy& ?L?-=""""""<P_U-p
 \'-p[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]
-[pcshttp://www.cs.rochester.edu/u/ryates/diagrams/all-index.html[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]9ju5ll6x;lxlk;6zslllllllllllllllllllllo9,klk;8ikllk=]'ki
-o 09njykjh h u 97              hu79jjkvgvgtllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll}}}}}|}}}}}}}}}}}}lccccccccccccccccccccccccccccccccccccccccccccccccccccc CV?cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc CV?
-http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]e2uz1;'."v '+FD|}.-.[-=--
--g i8iiii98[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]
+[pcshttp://www.cs.rochester.edu/u/ryates/diagrams/all-index.html[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]9ju5ll6x;lxlk;6zslllllllllllllllllllllo9,klk;8ikllk=]'k8iu.
+o 09njykjh h u 97              hu79jjkvgvgtlllllllllllllllllllll
+bnp09 oollllllllllllllllllllllllllllllllllllllll}}}}}|}}}}}}}}}}}}lccccccccccccccccccccccccccccccccccccccccccccccccccccc CV?cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc CV?
+http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]e2uz1;'."v '+FD|}.-.[-=--onmbo.-bbbbbbbbbbbb-
+po8/ioiii98[[http://www.cs.rochester.edu/u/ryates/diagra : ;;;;;;:
+  b/-=?>[[https://github.com/diagrams/diagrams-svg/issues/15][Fill
+  color needs to be explicitly specified for text nodes      Issue #15
+       diagrams/diagrams-svg]] 
+    dhttps://github.com/diagrams/diagrams-lib/[[https://github.com/diagrams/diagrams-lib/][diagrams/diagrams-lib]]88888888
+    p faaoop/aaaaaaaaaaaaaaaaaaaaaa=lll;oo
 http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html,.[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]http://www.cs.rochester.edu/u/ryates/diagrams/all-index.htmlhttp://www.cs.rochester.edu/u/ryates/diagrams/all-index.htmlf fy,,"v '+FD|}                      mcxr34-i /'[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]]u[u7li7illlllllo[sckreod0909988x8 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyg4yyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 '; ][[http://www.cs.rochester.edu/u/ryates/diagram vs/all-index.html][]]r/.g[[http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html][]].http://www.cs.rochester.edu/u/ryates/diagrams/all-index.html//..//'./'/'/'[4
 /'df yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy-o=myyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\=&"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyl;lppo[[https://www.beeminder.com/byorgey][byorgey]]https://www.beeminder.com/byorgeyhttps://www.beeminder.com/byorgeyi8uj-[[https://www.beeminder.com/byorgey][byorgey]]=
@@ -89,7 +114,7 @@ ikkl[i8888888oohz.j.,, m/'
 
 \']'\]
 -;
-352e e ft 
+352e e ft
 
 n
 e [[https://patch-tag.com/][Darcs Hosting: Patch-Tag.com]];llioiy =-hu
@@ -218,8 +243,8 @@ ll;kvl ;l;b ;l;k;k  ho0p;;;;;;;;;;;;lllllllll
 lllll   lbllllllllllllllllllllllllllllllllllllllllllllll]]]]]]]]]]]]]]]]]
 
                                                               ....,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
-                                                              .ln..............llllllllllllllllllllllllllllllnnnnnnnnlop 
-o8pu7y7 
+                                                              .ln..............llllllllllllllllllllllllllllllnnnnnnnnlop
+o8pu7y7
 
 \\o/o/o////// 8,
 l;w;l;l;edxihxlxx6lo6xklk6xlk6lkx6lo6xlk6ko66666o,,,,,,,,,,,,,,
@@ -231,7 +256,7 @@ uuuuu o ,,,,,, o 8o 8,8,// /http://www.google.com/reader/view/
 http://www.google.com/reader/view/8,8,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;88, /,; ,,,,,,,,,,,,,,,,,,=/k;sa;as
 /;p8ttp://www.google.com/reader/view/[[http://www.google.com/reader/view/][Google
-Reade/fx87uy   
+Reade/fx87uy
 (127)]]9.[[http://www.google.com/reader/view/][http://www.google.com/reader/view/]]/.,http://www.google.com/reader/view/[[http://www.google.com/reader/view/][Google
 Reader
 (127)]]http://www.google.c om/reader/view/,http://www.google.com/reader/view/http://www.google.com/reader/view/9/.,9';999qa9qw/.http://www.google.com/reader/view/aq/.'w[[http://www.google.com/reader/view/][Google
