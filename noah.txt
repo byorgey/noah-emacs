@@ -175,21 +175,13 @@ $F$-structure paired with a $G$-structure, which drive the DFA in
 sequence.  Hence, in order to take the DFA from state $i$ to stateo state
 $j$/.[]nm m m
 overall, the $F$-structure must take the DFA from state $i$ to some state
-$k$, and then the $G$-structure must take it from $k$ to $j$.  This
-works for any state $k$, and $(FG)_{ij}$ is the sum over all
-such possibilities.  Thus,
-
-\[ (FG)_{ij} = \sum_{k \in Q} F_{ik} G_{kj}. \]
-
-
-%[[https://mail.google.com/mail/u/0/?ui=2&shva=1#inbox/13b566697bd7b504][(no
- subject) - byorgey@gmail.com - Gmail]] ,
- [[https://mail.google.com/mail/u/0/?ui=2&shva=1#inbox/13b566697bd7b504][(no
+,, v        vvvvx/13b566697bd7b504][(no
+ subject) - byorg[[https://mail.google.com/mail/u/0/?ui=2&shva=1#inbox/13b566697bd7b504][(no
 ll'bject) - byorgey@gmail.com - Gmail]] 11']\\\]
 
-k;;,gb'          yyuuuuuuuuuuuuuhuu7         gdsssssss
+k;;,gb'          yyuuuuuuuuuuuuuhuu7  []b         gdsssssss
 ffffffffffffffffcdrfdrrrr4;i;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;\fff]gbffffffffffffffffffffffffffffffffffffffffffffffffffff
-                                                                                      ffffffffffffffft555555555555555tr55trr
+                              """""""""""""""' b ;0l?0    '[-:                                                     ffffffffffffffft555555555555555tr55trr
 										      ffffffffffffffft555555555555555tr55trr
 vffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 f
@@ -200,25 +192,22 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 
 lllll			```	```	``2.ll
 
-=]
+=]    '[-:
 
-
-9998+9-*  mmmmmmmmmmmmmm¸,₥kkm/.iiiiiii////
-m /
-
+  
 
 
 
 
-
+ 
 
 
 
 
 
 
-
-
+ /', 
+\g] ] ]
 
 
 
@@ -258,6 +247,135 @@ m /
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+np
+ 88lhttps://github.com/haskell/cabal/issues/1052#issuecomment-9557479lhttps://github.com/haskell/cabal/issues/1052#issuecomment-9557479https://github.com/haskell/cabal/issues/1052#issuecomment-9557479-=----=-=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'?
+u k8 45. 
+
+
+
+         xccccz xav  vgxc cfcf cffcfcd
+
+
+xz
+zxXxxxx
+
+
+
+1.	Come, thou long expected Jesus, 
+	born to set thy people free; // -;	
+f  rom our fears /. and sins release us, 
+
+'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xxxxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+'kivx ; n               c f\/////////////////////////////khjxxssssk/ /	let us find our rest in thee.   oo bb,
+	kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+	b
+oooooooo strength and consolation, 
+	hope of all the earth thou art; o,oooooooo      ooooooooooooooooooooear desire of every nation, 
+	joy of every longing heart.
+
+2.	Born thy people to deliver, 
+	born a child and yet a King, 
+	born to reign in us forever, 
+
+ss\]]]]]]]]]][;]\.'.
+00000000000000000000            t6yYGJUh777y76y532221w31312``122q
+00+017*1*1220
+0, 213++
+qc
 
 
 
